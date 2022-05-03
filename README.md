@@ -1,3 +1,3 @@
 # odin-recipes
 
-Basic HTML recipe site for Odin Project.
+Basic HTML recipe site for The Odin Project.
